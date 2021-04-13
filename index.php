@@ -35,6 +35,7 @@ function thelemaPath() {
     return str_replace(App::getDocumentRoot(),  '', $dir->getPath()) ;
 }
 
+
 Loader::registerAutoLoadClasses(
     null,
     [
