@@ -12,7 +12,6 @@ namespace Thelema\Currency;
 
 use \Bitrix\Main\Web\HttpClient as HttpClient;
 
-
 /**
  * Class BankLink
  *
